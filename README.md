@@ -1,2 +1,4 @@
 # JavaPEP
-Java Training Session
+:red_circle: Java Training Session
+
+
